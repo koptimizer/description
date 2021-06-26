@@ -32,6 +32,7 @@
   - 활동에 대한 사진첩
   - 협약 기업 및 기관
 - 랩실 설명부와 교수님들 정보는 원래 있던 폼에서 조금만 바꿔서 썻기에 금방 해결됐다. 그런데 학생들은 아무래도 교수님들보단 사진을 작게하는게 맞다고 생각해서 아예 새로운 폼을 만들어서 기존에다가 덧대었다. 3명씩 한 div로 잡아서 집어넣고, 아래에 간략하게 정보를 써주는 식으로 만들었다.
+
 <p align = 'center'>
   <img src = "https://github.com/koptimizer/description/blob/main/note/projects/pics/home3.jpg">
   (모자이크했더니 뭔가 더 이상하네...)
