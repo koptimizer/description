@@ -15,6 +15,6 @@
 ## Competitions
 - [Dacon 자연어 기반 기후기술분류 AI 경진대회 (진행중)]
 - [2020 Bigcontest 챔피언리그: NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출 (우수상)](https://github.com/koptimizer/description/blob/main/note/competition/2020bigcon.md)
-- [Dacon 신용카드 빅데이터 경진대회 (상위 5%)]
+- [Dacon 신용카드 빅데이터 경진대회 (상위 5%)](https://github.com/koptimizer/description/blob/main/note/competition/jeju.md)
 - [2020 스마트팩토리 아이디어 경진대회 (최우수상)]
 - [2019 스마트팩토리 아이디어 경진대회 (대상)]
