@@ -6,7 +6,7 @@
 ## Projects
 - [에너지 프로슈머 빅데이터 분석 및 AI 알고리즘을 활용한 P2P 에너지 블록테인 기술개발]
 - [메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법](https://github.com/koptimizer/description/blob/main/note/projects/meta.md)
-- [한국산업기술대학교 AI챗봇 산돌이](https://github.com/koptimizer/description/blob/main/note/projects/sandol.md)
+- [한국산업기술대학교 챗봇 산돌이](https://github.com/koptimizer/description/blob/main/note/projects/sandol.md)
 - [소셜 감성 데이터를 이용한 딥러닝 기반 가상화폐 가격 예측 모델](https://github.com/koptimizer/description/blob/main/note/projects/social.md)
 - [데이터 분석 재능기부: 파뿌리(파이썬 뿌시는 이십대들)](https://github.com/koptimizer/description/blob/main/note/projects/PB.md)
 - [한국산업기술대학교 산업데이터분석연구실 홈페이지 개발](https://github.com/koptimizer/description/blob/main/note/projects/home.md)
