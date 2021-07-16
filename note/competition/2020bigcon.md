@@ -10,7 +10,7 @@
 - 본선에 올라온 팀중 우리 팀만이 유일하게 메타휴리스틱으로 접근을 했었는데, 이게 생각보다 평가에서 엄청난 어드벤티지를 받았던 것으로 생각된다. 대부분의 팀이 터키 알고리즘이나 EDA를 통해서 최적화를 했었는데 그러한 접근보다는 차원이 좀 더 높았다고 생각한다.
 <p align = 'center'>
    <img src = "https://github.com/koptimizer/description/blob/main/note/competition/pics/big1.jpg">
-   (오프라인 시상식 진행으로 많이 아쉬웠지만 몹시 감격스러웠다 ㅎㅎ)
+   (온라인 시상식이라서 많이 아쉬웠지만 몹시 감격스러웠다 ㅎㅎ)
 </p>
 
 ## EDA
